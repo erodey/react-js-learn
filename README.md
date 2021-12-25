@@ -1,2 +1,2 @@
-# vue-ls-learn
+#react-ls-learn
 Learning react js
