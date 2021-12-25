@@ -1,2 +1,2 @@
-#react-ls-learn
+#react-js-learn
 Learning react js
